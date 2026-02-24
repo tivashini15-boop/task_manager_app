@@ -21,5 +21,8 @@ It allows users to create, manage, and track daily tasks.
 2. Run: flutter pub get
 3. Run: flutter run
 
+## GitHub Repository
+https://github.com/tivashini15-boop/task_manager_app.git 
+
 
 
